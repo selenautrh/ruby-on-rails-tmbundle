@@ -1,1 +1,1 @@
-Add TorchScript Docs Integrations Page (#8501)
+Add CoreML Docs Integrations Page (#8063)
