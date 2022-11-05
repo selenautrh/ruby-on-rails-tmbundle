@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+Update fraction arg to employ a random selection (#8234)
