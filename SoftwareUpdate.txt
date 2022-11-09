@@ -1,1 +1,1 @@
-ultralytics 8.0.231 use new pyproject.toml (#7185)
+Fix OpenVINO missing batch-size bug (#9264)
