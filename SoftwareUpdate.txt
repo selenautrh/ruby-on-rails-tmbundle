@@ -1,1 +1,1 @@
-ultralytics 8.1.31 NCNN and CLIP updates (#9235)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
