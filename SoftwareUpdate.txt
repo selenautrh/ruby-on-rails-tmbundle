@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+Add quantization support to TensorFlow.js converter (#7008)
