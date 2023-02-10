@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
