@@ -1,1 +1,1 @@
-Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
+Elaborate Train and Predict mode docs arguments (#8137)
