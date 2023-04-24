@@ -1,1 +1,1 @@
-* fix for predicting with batch_size > 1
+Rename model_id to model.id (#8447)
