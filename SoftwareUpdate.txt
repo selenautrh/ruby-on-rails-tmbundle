@@ -1,1 +1,1 @@
-Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
+Update CITATION.cff with cffinit corrections (#8658)
