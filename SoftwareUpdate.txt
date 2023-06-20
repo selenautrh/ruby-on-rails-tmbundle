@@ -1,1 +1,1 @@
-Modify tuner best.pt logic to train first (#8792)
+New HUB Cloud Training docs page (#8174)
