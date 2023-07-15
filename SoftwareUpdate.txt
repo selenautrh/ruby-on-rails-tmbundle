@@ -1,1 +1,1 @@
-Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
