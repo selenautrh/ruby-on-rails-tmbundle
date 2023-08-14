@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Update TFLite Docs images (#8605)
