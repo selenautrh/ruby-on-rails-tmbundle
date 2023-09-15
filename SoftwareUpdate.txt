@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+Hold failed upload metrics and upload with next upload metrics (#8513)
