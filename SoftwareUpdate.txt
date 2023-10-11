@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Compare plt.get_backend() in lowercase (#8409)
