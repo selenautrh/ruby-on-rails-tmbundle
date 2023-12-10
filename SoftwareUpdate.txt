@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Add YOLOv8 LibTorch C++ inference example (#7090)
