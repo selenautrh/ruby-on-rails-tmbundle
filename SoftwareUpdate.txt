@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+fix yolo classify model loading error (#9196)
