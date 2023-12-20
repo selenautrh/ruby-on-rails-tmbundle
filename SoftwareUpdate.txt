@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+New MLFLOW_KEEP_RUN_ACTIVE flag for enhanced MLflow run management (#8808)
