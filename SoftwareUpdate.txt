@@ -1,1 +1,1 @@
-Updating a typo on paddlepaddle.md (#9108)
+Update docs building code (#7601)
