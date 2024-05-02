@@ -1,1 +1,1 @@
-update requirements.txt
+docs: update view-results-in-terminal.md (#66)
