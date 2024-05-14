@@ -1,1 +1,1 @@
-Fix tfjs exports for ARM64 Dockerfile (#8766)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
